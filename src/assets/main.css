@@ -1,0 +1,18 @@
+@import './base.css';
+
+/* COUNTER APP BODY STYLE */
+body {
+  color: hsl(0, 0%, 0%);
+  margin:0;
+  width:100vw;
+  height:100vh;
+  background-color: hsl(240, 3%, 71%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+}
+
+/* body{
+  background-color:hsl(0,100%,100%);
+} */
